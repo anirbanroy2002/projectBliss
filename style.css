@@ -3843,3 +3843,12 @@ body#layout .footer-about-area, body#layout .foot-bar-social {
     float: left;
     display: block;
 }
+
+  #footer-sec2 &gt; #ContactForm2 {
+  	display: none!important;
+  }
+  
+  
+  #cover-img &gt; img{
+  	box-shadow: 0 10px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%) !important;
+  	}

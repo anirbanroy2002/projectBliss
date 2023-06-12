@@ -138,8 +138,6 @@ abbr{
 }
 /*-- Body Content CSS --*/
  body{
-    background:#f2f6f8;
-    background-color:#f2f6f8;
     font-family:'Fira Sans',Arial,sans-serif;
     font-size:14px;
     font-weight:400;
@@ -1419,7 +1417,7 @@ float: left;
 }
  .post-meta{
     overflow:hidden;
-    color:#aaa;
+    color:#575757;
     font-size:13px;
     font-weight:400;
     padding:0 1px
@@ -1442,7 +1440,7 @@ font-size: 11px;
     content:'\f017'
 }
  .post-meta a{
-    color:#aaa;
+    color:#575757;
     transition:color .17s
 }
  .post-meta a:hover{
@@ -1537,14 +1535,14 @@ font-size: 11px;
     font-weight:400;
     height:34px;
     background-color:#fdfdff;
-    color:#aaa;
+    color:#575757;
     line-height:34px;
     padding:0 15px;
     margin:0 0 15px;
     border-bottom:2px solid #f2f2f6
 }
  #breadcrumb a{
-    color:#aaa;
+    color:#575757;
     transition:color .17s
 }
  #breadcrumb a:hover{
@@ -1756,7 +1754,7 @@ font-size: 11px;
  .post-nav li span{
     display:block;
     font-size:11px;
-    color:#aaa;
+    color:#575757;
     font-weight:500;
     text-transform:uppercase;
     padding:0 0 3px
@@ -1786,7 +1784,7 @@ font-size: 11px;
     margin:0
 }
  .post-nav .post-nav-active p{
-    color:#aaa
+    color:#575757
 }
  .about-author{
     position:relative;
@@ -2161,14 +2159,14 @@ border:0;
     float:left;
     font-size:11px;
     font-weight:400;
-    color:#aaa;
+    color:#575757;
     position:relative;
     padding:0 1px;
     margin:5px 0 0;
     display:block
 }
  .comments .comments-content .datetime a,.comments .comments-content .datetime a:hover{
-    color:#aaa
+    color:#575757
 }
  .comments .thread-toggle{
     margin-bottom:4px
@@ -2256,7 +2254,7 @@ border:0;
   font-family:'Font Awesome 5 Free';
     font-style:normal;
     font-weight:900;
-    color:#aaa;
+    color:#575757;
     line-height:1
 }
  blockquote:before{
